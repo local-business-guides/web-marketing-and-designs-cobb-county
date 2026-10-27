@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/web-marketing-and-designs-cobb-county/sitemap.xml
+Sitemap: https://local-business-guides.github.io/web-marketing-and-designs-cobb-county/news-sitemap.xml
