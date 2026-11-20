@@ -38,4 +38,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/web-marketing-and-designs-cobb-county/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/web-marketing-and-designs-cobb-county/news/rss.xml)
-- [Main resource site](https://web-marketing-designs-cobb.localwebsites.chatgpt.site)
+- [Main resource site](https://web-marketing-designs-cobb.localwebsites.chatgpt.site/news/)
